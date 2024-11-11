@@ -8,6 +8,7 @@ public class practica1 {
 		System.out.println("Que tal mundo");
 
 		System.out.println("Adios mundo");
+		System.out.println("Supah Hola");
 	}
 
 }
